@@ -1,4 +1,10 @@
 # Image-Text-ForeignLanguage
+
+This python script will read an image and extract the text from it. Its a image to text translation. After translation, we can convert the text to any foreign language.
+
+I hope you all like it. :)
+
+
 Python Tesseract
 ================
 
