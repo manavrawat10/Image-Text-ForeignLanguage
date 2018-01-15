@@ -25,10 +25,13 @@ Functionalities
 ---------------
 
 Declaring object class for Translator.
+
 ----- translator = Translator()
 
 Calling a PIL function "image_to_string" that will convert text from image.
+
 ----- text = pytesseract.image_to_string(im)
 
 This will translate the text to any user specific language.
+
 ----- translator.translate(text, dest=lang[lan])
