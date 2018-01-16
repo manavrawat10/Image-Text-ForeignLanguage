@@ -41,3 +41,67 @@ Calling a PIL function "image_to_string" that will convert text from image.
 This will translate the text to any user specific language.
 
 ----- translator.translate(text, dest=lang[lan])
+
+
+Languages 
+---------
+
+
+This is the list of languages it offers a user to read the text in:-
+
+"Bulgarian":"bg",
+"Bengali":"bn",
+"Catalan":"ca",
+"Chinese Simplified":"zh-CN",
+"Chinese Traditional":"zh-TW",
+"Croatian":"hr",
+"Czech":"cs",
+"Danish":"da",
+"Dutch":"nl",
+"English":"en",
+"Estonian":"et",
+"Filipino":"tl",
+"Finnish":"fi",
+"French":"fr",
+"Galician":"gl",
+"German":"de",
+"Gujarati":"gu",
+"Greek":"el",
+"Hebrew":"iw",
+"Hindi":"hi",
+"Hungarian":"hu",
+"Icelandic":"is",
+"Indonesian":"id",
+"Irish":"ga",
+"Italian":"it",
+"Japanese":"ja",
+"Korean":"ko",
+"Kannada":"kn",
+"Latvian":"lv",
+"Lithuanian":"lt",
+"Macedonian":"mk",
+"Malay":"ms",
+"Maltese":"mt",
+"Norwegian":"no",
+"Persian":"fa",
+"Polish":"pl",
+"Portuguese":"pt",
+"Romanian":"ro",
+"Russian":"ru",
+"Serbian":"sr",
+"Slovak":"sk",
+"Slovenian":"sl",
+"Spanish":"es",
+"Swahili":"sw",
+"Swedish":"sv",
+"Tamil":"ta",
+"Telugu":"te",
+"Thai":"th",
+"Turkish":"tr",
+"Ukrainian":"uk",
+"Vietnamese":"vi",
+"Welsh":"cy",
+"Yiddish":"yi".
+
+
+
